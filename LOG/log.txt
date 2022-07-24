@@ -1,0 +1,4 @@
+21:35:09,930 root INFO  Provando el requests a las paginas 
+21:35:11,160 root INFO 200
+21:35:11,161 root INFO 200
+21:35:11,162 root INFO  Requests exitoso. 
